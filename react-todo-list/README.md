@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Create util map inside src
+inside the map create your firebase.js file containing all config firebase data.
+
 ## Available Scripts
 
 In the project directory, you can run:
